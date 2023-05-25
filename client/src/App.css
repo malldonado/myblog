@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #222;
+}
+
+img {
+  max-width: 100%;
+}
+
+main {
+  padding: 10px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+form.login, form.register {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 8px 7px;
+  border: none;
+  border-bottom: 1px solid #eee;
+}
+
+button {
+  width: 100%;
+  display: block;
+  background-color: #000;
+  border: 0;
+  margin-top: 20px;
+  color: #fff;
+  border-radius: 5px;
+  padding: 8px 0;
+}
+
+form h2 {
+  text-align: center;
+}
