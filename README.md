@@ -104,6 +104,6 @@ Note: Make sure to have MongoDB installed and configured correctly, as the appli
 
 ### Tools used to develop this project:
 
-** Reactjs
-** Nodejs
-** MongoDB
+* **Reactjs**
+* **Nodejs**
+* **MongoDB**
