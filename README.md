@@ -87,7 +87,7 @@ yarn start
 or
 
 ```
-npm start
+npm run start
 ```
 
 This will start the ReactJS development server, making the blog accessible in your browser.
