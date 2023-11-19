@@ -43,15 +43,15 @@ Enhanced writing experience with the use of React Quill.
 Robust security with JWT authentication.
 Scalable and easily maintainable architecture.
 
-#### Home
+### Home
 ![1](https://github.com/malldonado/myblog/assets/47877623/ab7c88fc-8a64-49e0-b3f9-389e85192a92)
 
 
-#### Page of news
+### Page of news
 ![2](https://github.com/malldonado/myblog/assets/47877623/1786ac08-c9a0-4b59-af6d-3785019d4648)
 
 
-#### Page of edit news
+### Page of edit news
 ![3](https://github.com/malldonado/myblog/assets/47877623/35849e64-a840-4fc4-9cc6-94233bf5e2fc)
 
 ## Installation
@@ -104,6 +104,6 @@ Note: Make sure to have MongoDB installed and configured correctly, as the appli
 
 ### Tools used to develop this project:
 
-#### Reactjs
-#### Nodejs
-#### MongoDB
+** Reactjs
+** Nodejs
+** MongoDB
