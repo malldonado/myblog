@@ -81,7 +81,7 @@ This will initialize the API, setting up the necessary endpoints to provide dyna
 Now, navigate to the frontend directory in the terminal and execute the following command:
 
 ```
-yarn dev
+yarn start
 ```
 
 or
